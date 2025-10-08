@@ -1,5 +1,6 @@
 package tests;
 
+
 import clients.UserClient;
 import io.qameta.allure.Step;
 import models.User;
